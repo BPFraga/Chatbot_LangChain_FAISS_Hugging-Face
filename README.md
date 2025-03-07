@@ -61,5 +61,4 @@ Digite uma pergunta baseada no conteúdo do `base_de_conhecimento.txt`, e o chat
 Este projeto é distribuído sob a licença MIT.
 
 ---
-🔗 **Contato:** Para dúvidas ou sugestões, abra uma issue ou me encontre no [LinkedIn]([[https://www.linkedin.com/in/seu-perfil]](https://www.linkedin.com/in/daniel-hl-fraga/)).
-
+🔗 **Contato:** Para dúvidas ou sugestões, abra uma issue ou me encontre no [LinkedIn](https://www.linkedin.com/in/daniel-hl-fraga).
